@@ -38,7 +38,3 @@ O programa foi testado inicialmente com uma quantidade menor de entrevistados pa
 
 ## 🚀 Tecnologias utilizadas  
 - Python  
-
----
-
-Desenvolvido por Arthur 🚀
